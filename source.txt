@@ -1,0 +1,52 @@
+//Mista-J
+//CeramicAcath
+//This program will test a string against various test and return trues for each instance
+
+
+
+function  isLetter ()
+{
+	return;
+}
+
+function isNumber()
+{
+	return;
+}
+
+function isSymbol()
+{
+	return;
+}
+
+
+function isUppercase()
+{
+	return;
+}
+
+fucntion allLetter()
+{
+	return;
+}
+
+fucntion allNumber()
+{
+	return;
+}
+
+function allSymbol()
+{
+	return;
+}
+
+
+//main program will begin here
+//This need to read a string from the user than run the functions above in
+// a specific order in hopes to test for as much 
+//infromation as possible about the string
+
+
+
+
+
