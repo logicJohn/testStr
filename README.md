@@ -1,9 +1,10 @@
 # testStr
 this will test a string for various characteristics
 
-all chars
-all ints
-all symbols
+all chars,
+all ints,
+all symbols,
+
 a mixture of chars/ints
 a mixture of chars/symbols
 a mixtrue of ints/symbols
